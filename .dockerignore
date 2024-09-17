@@ -1,0 +1,8 @@
+mongo/
+.git
+node_modules/
+dist/
+.env
+*.zip
+*.txt
+*.md
